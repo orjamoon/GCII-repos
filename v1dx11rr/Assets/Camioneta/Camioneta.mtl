@@ -1,0 +1,50 @@
+newmtl Mat
+illum 4
+Kd 0.13 0.13 0.13
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 100.00
+newmtl Mat_2
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.40 0.40 0.40
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+Ns 100.00
+newmtl Mat_4
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.11 0.33 1.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl default1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert2SG
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl map_woodenWheel01
+illum 4
+Kd 0.80 0.29 0.04
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+Ni 1.45
+Ks 0.50 0.50 0.50
+Ns 225.00
