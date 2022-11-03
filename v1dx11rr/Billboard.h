@@ -24,7 +24,7 @@ public:
 		D3DXVECTOR3 pos;
 	};
 
-	
+	//Hola este es un comentario para checar q rollo jaja
 
 	ID3D11VertexShader* VertexShaderVS;
 	ID3D11PixelShader* solidColorPS;
